@@ -47,8 +47,29 @@ namespace WordVista.Tests
 
     public class LevelValidationTests
     {
-        private readonly string _levelsDir = @"E:\wordsgame\WordVista3D\Assets\Resources\Levels";
-        private readonly string _manifestPath = @"E:\wordsgame\WordVista3D\Assets\Resources\LevelManifest.json";
+        private static string FindRepoRoot()
+        {
+            string current = AppContext.BaseDirectory;
+            while (!string.IsNullOrEmpty(current))
+            {
+                string candidate = Path.Combine(current, "Assets", "Resources", "Levels");
+                if (Directory.Exists(candidate))
+                {
+                    return current;
+                }
+                current = Directory.GetParent(current)?.FullName;
+            }
+
+            if (Directory.Exists(@"E:\wordsgame\WordVista3D\Assets\Resources\Levels"))
+            {
+                return @"E:\wordsgame\WordVista3D";
+            }
+
+            return Directory.GetCurrentDirectory();
+        }
+
+        private readonly string _levelsDir = Path.Combine(FindRepoRoot(), "Assets", "Resources", "Levels");
+        private readonly string _manifestPath = Path.Combine(FindRepoRoot(), "Assets", "Resources", "LevelManifest.json");
 
         [Fact]
         public void All250Levels_Exist_And_ValidateStrictly()
