@@ -1,0 +1,39 @@
+{
+  "levelId": 96,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "EOLGDN",
+  "answerWords": [
+    {
+      "word": "GOLDEN",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "LODGE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "LONG",
+      "startX": 5,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "GOLD",
+    "OLD",
+    "DOG",
+    "ONE"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

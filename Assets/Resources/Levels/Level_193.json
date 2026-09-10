@@ -1,0 +1,37 @@
+{
+  "levelId": 193,
+  "worldId": 7,
+  "worldName": "Sky Kingdom",
+  "letters": "ORZNIHO",
+  "answerWords": [
+    {
+      "word": "HORIZON",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "HORN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "IRON",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ZOO",
+    "NOR"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

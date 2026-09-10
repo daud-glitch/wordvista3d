@@ -1,0 +1,29 @@
+{
+  "levelId": 52,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "YEROIV",
+  "answerWords": [
+    {
+      "word": "IVORY",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "ROVE",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "IVY"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

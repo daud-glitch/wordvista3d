@@ -1,0 +1,29 @@
+{
+  "levelId": 217,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "SOMSCO",
+  "answerWords": [
+    {
+      "word": "COSMOS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "MOSS",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SOO"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 6,
+  "gridHeight": 4
+}

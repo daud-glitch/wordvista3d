@@ -1,0 +1,30 @@
+{
+  "levelId": 38,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "DEER",
+  "answerWords": [
+    {
+      "word": "DEER",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "REED",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "RED",
+    "DEE"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

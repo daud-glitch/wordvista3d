@@ -1,0 +1,38 @@
+{
+  "levelId": 91,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "DUSEN",
+  "answerWords": [
+    {
+      "word": "DUNES",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "DUES",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "SEND",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SUE",
+    "END",
+    "DUE"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 8,
+  "gridHeight": 4
+}

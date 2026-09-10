@@ -1,0 +1,39 @@
+{
+  "levelId": 182,
+  "worldId": 7,
+  "worldName": "Sky Kingdom",
+  "letters": "CAELTS",
+  "answerWords": [
+    {
+      "word": "CASTLE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SCALE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "LATE",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "CAT",
+    "ACT",
+    "LET",
+    "SET"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 6,
+  "gridHeight": 5
+}

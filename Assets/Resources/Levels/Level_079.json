@@ -1,0 +1,38 @@
+{
+  "levelId": 79,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "OACNRH",
+  "answerWords": [
+    {
+      "word": "ANCHOR",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "ROACH",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ARCH",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "OAR",
+    "CAN",
+    "NOR"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 8,
+  "gridHeight": 5
+}

@@ -1,0 +1,27 @@
+{
+  "levelId": 17,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "LWO",
+  "answerWords": [
+    {
+      "word": "OWL",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "LOW",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [],
+  "coinReward": 20,
+  "difficulty": 1,
+  "gridWidth": 3,
+  "gridHeight": 3
+}

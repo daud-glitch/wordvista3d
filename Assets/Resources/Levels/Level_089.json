@@ -1,0 +1,30 @@
+{
+  "levelId": 89,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "SDPNO",
+  "answerWords": [
+    {
+      "word": "PONDS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "POND",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "POD",
+    "NOD"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

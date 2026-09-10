@@ -1,0 +1,38 @@
+{
+  "levelId": 235,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "TILWKNE",
+  "answerWords": [
+    {
+      "word": "TWINKLE",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "KNELT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "TWIN",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LET",
+    "WIN",
+    "TIN"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 11,
+  "gridHeight": 5
+}

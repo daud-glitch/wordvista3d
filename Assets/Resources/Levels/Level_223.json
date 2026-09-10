@@ -1,0 +1,37 @@
+{
+  "levelId": 223,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "TOCMES",
+  "answerWords": [
+    {
+      "word": "COMETS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "COMET",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "SMOTE",
+      "startX": 5,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "MET",
+    "COT"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 6,
+  "gridHeight": 5
+}

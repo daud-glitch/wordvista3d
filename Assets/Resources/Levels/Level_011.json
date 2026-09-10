@@ -1,0 +1,30 @@
+{
+  "levelId": 11,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "NIPG",
+  "answerWords": [
+    {
+      "word": "PIG",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "PIN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "PI",
+    "NIP"
+  ],
+  "coinReward": 20,
+  "difficulty": 1,
+  "gridWidth": 3,
+  "gridHeight": 3
+}

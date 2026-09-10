@@ -1,0 +1,38 @@
+{
+  "levelId": 84,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "MAAIRN",
+  "answerWords": [
+    {
+      "word": "MARINA",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "RAIN",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "MAIN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "AIM",
+    "ARM",
+    "MAN"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 4
+}

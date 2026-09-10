@@ -1,0 +1,38 @@
+{
+  "levelId": 59,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "TRAEH",
+  "answerWords": [
+    {
+      "word": "EARTH",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "HEART",
+      "startX": 7,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "HARE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "HAT",
+    "THE",
+    "EAR"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 8,
+  "gridHeight": 5
+}

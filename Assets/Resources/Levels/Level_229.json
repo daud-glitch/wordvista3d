@@ -1,0 +1,30 @@
+{
+  "levelId": 229,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "ANICARD",
+  "answerWords": [
+    {
+      "word": "RADIANC",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "DRAIN",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "AID",
+    "AND"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 7,
+  "gridHeight": 5
+}

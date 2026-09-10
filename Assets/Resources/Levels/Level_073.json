@@ -1,0 +1,38 @@
+{
+  "levelId": 73,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "NADLSI",
+  "answerWords": [
+    {
+      "word": "ISLAND",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "LANDS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "SAIL",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LAD",
+    "AID",
+    "AND"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

@@ -1,0 +1,30 @@
+{
+  "levelId": 82,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "GVIDIN",
+  "answerWords": [
+    {
+      "word": "DIVING",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "DING",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "DIG",
+    "GIN"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 4
+}

@@ -1,0 +1,38 @@
+{
+  "levelId": 232,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "RNANLET",
+  "answerWords": [
+    {
+      "word": "LANTERN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "LEARN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ALERT",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LET",
+    "NET",
+    "ART"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 7,
+  "gridHeight": 5
+}

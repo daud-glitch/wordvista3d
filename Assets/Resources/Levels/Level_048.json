@@ -1,0 +1,37 @@
+{
+  "levelId": 48,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "GORVE",
+  "answerWords": [
+    {
+      "word": "GROVE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "OVER",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ROVE",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ORE",
+    "EGO"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

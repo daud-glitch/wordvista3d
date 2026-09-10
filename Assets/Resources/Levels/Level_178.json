@@ -1,0 +1,23 @@
+{
+  "levelId": 178,
+  "worldId": 6,
+  "worldName": "Tropical Island",
+  "letters": "NGLIMAF",
+  "answerWords": [
+    {
+      "word": "FLAMING",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "AIM",
+    "FIG"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 7,
+  "gridHeight": 1
+}

@@ -1,0 +1,36 @@
+{
+  "levelId": 181,
+  "worldId": 7,
+  "worldName": "Sky Kingdom",
+  "letters": "UDSOCL",
+  "answerWords": [
+    {
+      "word": "CLOUDS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "CLOUD",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "COLD",
+      "startX": 0,
+      "startY": 6,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "OLD"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 6,
+  "gridHeight": 7
+}

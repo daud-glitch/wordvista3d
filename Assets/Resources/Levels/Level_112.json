@@ -1,0 +1,31 @@
+{
+  "levelId": 112,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "SMRWA",
+  "answerWords": [
+    {
+      "word": "WARMS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "WARM",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ARM",
+    "WAR",
+    "RAW"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

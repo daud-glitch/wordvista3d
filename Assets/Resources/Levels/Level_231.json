@@ -1,0 +1,38 @@
+{
+  "levelId": 231,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "ABONEC",
+  "answerWords": [
+    {
+      "word": "BEACON",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "BACON",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ONCE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ONE",
+    "CAN",
+    "BOA"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 8,
+  "gridHeight": 5
+}

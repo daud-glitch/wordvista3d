@@ -1,0 +1,38 @@
+{
+  "levelId": 99,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "EAGMRI",
+  "answerWords": [
+    {
+      "word": "MIRAGE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "GAME",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "GEAR",
+      "startX": 6,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "AIM",
+    "ARM",
+    "RAG"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 8,
+  "gridHeight": 4
+}

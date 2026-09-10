@@ -1,0 +1,38 @@
+{
+  "levelId": 139,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "UTANDR",
+  "answerWords": [
+    {
+      "word": "TUNDRA",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "DAUNT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "TURN",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "NUT",
+    "RUT",
+    "RUN"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 10,
+  "gridHeight": 5
+}

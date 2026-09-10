@@ -1,0 +1,38 @@
+{
+  "levelId": 118,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "LPACAE",
+  "answerWords": [
+    {
+      "word": "PALACE",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "PLACE",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "LEAP",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ACE",
+    "ALE",
+    "CAP"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

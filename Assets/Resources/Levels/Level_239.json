@@ -1,0 +1,38 @@
+{
+  "levelId": 239,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "DAREELM",
+  "answerWords": [
+    {
+      "word": "EMERALD",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "DREAM",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "REALM",
+      "startX": 5,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "RED",
+    "ARM",
+    "EAR"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

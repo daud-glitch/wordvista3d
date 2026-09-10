@@ -1,0 +1,38 @@
+{
+  "levelId": 60,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "ANTRUE",
+  "answerWords": [
+    {
+      "word": "NATURE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "TUNA",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "TRUE",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "RUN",
+    "NET",
+    "RUT"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 8,
+  "gridHeight": 4
+}

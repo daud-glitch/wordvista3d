@@ -1,0 +1,31 @@
+{
+  "levelId": 58,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "OICABN",
+  "answerWords": [
+    {
+      "word": "CABIN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "COIN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "BIN",
+    "CAN",
+    "BAN"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

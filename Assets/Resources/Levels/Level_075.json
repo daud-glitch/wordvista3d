@@ -1,0 +1,29 @@
+{
+  "levelId": 75,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "WIMSS",
+  "answerWords": [
+    {
+      "word": "SWIMS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SWIM",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "IS"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

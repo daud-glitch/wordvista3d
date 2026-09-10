@@ -1,0 +1,23 @@
+{
+  "levelId": 244,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "ELCTESS",
+  "answerWords": [
+    {
+      "word": "CELESTS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LET",
+    "SET"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 7,
+  "gridHeight": 1
+}

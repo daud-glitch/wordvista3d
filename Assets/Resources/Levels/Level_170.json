@@ -1,0 +1,38 @@
+{
+  "levelId": 170,
+  "worldId": 6,
+  "worldName": "Tropical Island",
+  "letters": "PLEADD",
+  "answerWords": [
+    {
+      "word": "PADDLE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "PLEAD",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "PALE",
+      "startX": 0,
+      "startY": 6,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "PAD",
+    "LAD",
+    "APE"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 6,
+  "gridHeight": 7
+}

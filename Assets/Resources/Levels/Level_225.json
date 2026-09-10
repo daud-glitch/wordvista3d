@@ -1,0 +1,30 @@
+{
+  "levelId": 225,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "RTBSIO",
+  "answerWords": [
+    {
+      "word": "ORBITS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "ORBIT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "BIT",
+    "ROT"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 6,
+  "gridHeight": 5
+}

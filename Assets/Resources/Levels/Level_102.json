@@ -1,0 +1,38 @@
+{
+  "levelId": 102,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "ONRSCW",
+  "answerWords": [
+    {
+      "word": "CROWNS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "CROWN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "CROW",
+      "startX": 0,
+      "startY": 6,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ROW",
+    "COW",
+    "OWN"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 7
+}

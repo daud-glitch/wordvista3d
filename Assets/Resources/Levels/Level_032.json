@@ -1,0 +1,29 @@
+{
+  "levelId": 32,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "MSEOS",
+  "answerWords": [
+    {
+      "word": "MOSS",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SOME",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SO"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 6,
+  "gridHeight": 4
+}

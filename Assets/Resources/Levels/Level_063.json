@@ -1,0 +1,31 @@
+{
+  "levelId": 63,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "ENIHS",
+  "answerWords": [
+    {
+      "word": "SHINE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SHIN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SHE",
+    "HEN",
+    "HIS"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

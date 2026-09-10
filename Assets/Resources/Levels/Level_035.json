@@ -1,0 +1,30 @@
+{
+  "levelId": 35,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "TIMS",
+  "answerWords": [
+    {
+      "word": "MIST",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SMIT",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ITS",
+    "SIT"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 4
+}

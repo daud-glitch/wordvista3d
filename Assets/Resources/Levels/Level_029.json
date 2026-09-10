@@ -1,0 +1,36 @@
+{
+  "levelId": 29,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "SSGAR",
+  "answerWords": [
+    {
+      "word": "GRASS",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "RAGS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "SAG",
+      "startX": 5,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "GAS"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

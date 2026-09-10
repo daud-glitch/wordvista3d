@@ -1,0 +1,38 @@
+{
+  "levelId": 221,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "EESLICP",
+  "answerWords": [
+    {
+      "word": "ECLIPSE",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "PIECE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "SLICE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ICE",
+    "LIP",
+    "PIE"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 11,
+  "gridHeight": 5
+}

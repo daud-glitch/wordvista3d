@@ -1,0 +1,30 @@
+{
+  "levelId": 249,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "EOYYSSD",
+  "answerWords": [
+    {
+      "word": "ODYSSEY",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "DOSE",
+      "startX": 1,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "YES",
+    "DYE"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

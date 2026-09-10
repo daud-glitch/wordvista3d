@@ -1,0 +1,38 @@
+{
+  "levelId": 94,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "ECAML",
+  "answerWords": [
+    {
+      "word": "CAMEL",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "MALE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "CLAM",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ALE",
+    "ACE",
+    "MAC"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

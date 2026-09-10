@@ -1,0 +1,38 @@
+{
+  "levelId": 123,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "LEGCIRA",
+  "answerWords": [
+    {
+      "word": "GLACIER",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "CLEAR",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "RACE",
+      "startX": 6,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ALE",
+    "ICE",
+    "EAR"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 7,
+  "gridHeight": 5
+}

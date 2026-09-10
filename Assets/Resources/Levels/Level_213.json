@@ -1,0 +1,37 @@
+{
+  "levelId": 213,
+  "worldId": 7,
+  "worldName": "Sky Kingdom",
+  "letters": "HDLIES",
+  "answerWords": [
+    {
+      "word": "SHIELD",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SLIDE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "HIDE",
+      "startX": 0,
+      "startY": 6,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SHE",
+    "LED"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 6,
+  "gridHeight": 7
+}

@@ -1,0 +1,38 @@
+{
+  "levelId": 146,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "THREAH",
+  "answerWords": [
+    {
+      "word": "HEARTH",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "EARTH",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "HEART",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "HAT",
+    "THE",
+    "EAR"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 10,
+  "gridHeight": 5
+}

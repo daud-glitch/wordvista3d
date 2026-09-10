@@ -1,0 +1,30 @@
+{
+  "levelId": 25,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "BDRIT",
+  "answerWords": [
+    {
+      "word": "BIRD",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "DIRT",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "BID",
+    "RIB"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 4
+}

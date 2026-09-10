@@ -1,0 +1,36 @@
+{
+  "levelId": 77,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "HBCAE",
+  "answerWords": [
+    {
+      "word": "BEACH",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "EACH",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ACHE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ACE"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

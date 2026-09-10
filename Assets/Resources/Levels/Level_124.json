@@ -1,0 +1,38 @@
+{
+  "levelId": 124,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "SKESAP",
+  "answerWords": [
+    {
+      "word": "SPEAKS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SPEAK",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "PEAK",
+      "startX": 0,
+      "startY": 6,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "APE",
+    "ASK",
+    "SEA"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 7
+}

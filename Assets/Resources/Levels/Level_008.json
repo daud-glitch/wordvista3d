@@ -1,0 +1,29 @@
+{
+  "levelId": 8,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "DBRE",
+  "answerWords": [
+    {
+      "word": "BED",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "RED",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "BE"
+  ],
+  "coinReward": 20,
+  "difficulty": 1,
+  "gridWidth": 3,
+  "gridHeight": 3
+}

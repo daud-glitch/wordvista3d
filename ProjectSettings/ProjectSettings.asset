@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!129 &1
+PlayerSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 26
+  productGUID: 9a34b2f1837c41c48e8749a21b3cd991
+  AndroidProfiler: 0
+  AndroidFilterTouchesWhenObscured: 0
+  AndroidEnableSustainedPerformanceMode: 0
+  defaultScreenOrientation: 1
+  targetDevice: 2
+  useOnDemandResources: 0
+  accelerometerFrequency: 60
+  companyName: WordVista Studios
+  productName: WordVista 3D: Crossword Adventure
+  defaultCursor: {fileID: 0}
+  cursorHotspot: {x: 0, y: 0}
+  m_SplashScreenBackgroundColor: {r: 0.05, g: 0.08, b: 0.12, a: 1}
+  m_ShowUnitySplashScreen: 1
+  m_ShowUnitySplashLogo: 1
+  m_SplashScreenOverlayOpacity: 1
+  m_SplashScreenAnimation: 1
+  m_SplashScreenLogoStyle: 1
+  m_SplashScreenDrawMode: 0
+  m_SplashScreenBackgroundAnimationZoom: 1
+  m_SplashScreenLogoAnimationZoom: 1
+  m_SplashScreenBackgroundLandscapeAspect: 1
+  m_SplashScreenBackgroundPortraitAspect: 1
+  defaultScreenWidth: 1080
+  defaultScreenHeight: 1920
+  defaultScreenWidthWeb: 960
+  defaultScreenHeightWeb: 600
+  m_RenderingPath: 1
+  m_MobileRenderingPath: 1
+  activeColorSpace: 1
+  bundleVersion: 1.0.0
+  bundleVersionCode: 1
+  applicationIdentifier:
+    Android: com.wordvista.crossword3d
+    Standalone: com.wordvista.crossword3d
+  AndroidMinSdkVersion: 24
+  AndroidTargetSdkVersion: 34
+  AndroidBuildApkPerCpuArchitecture: 0
+  AndroidTargetArchitectures: 3
+  AndroidPackageType: 0
+  AndroidApplicationType: 0
+  AndroidPreferredInstallLocation: 1
+  vulkanEnableLateLatches: 0
+  vulkanEnablePreTransform: 1
+  muteOtherAudioSources: 0
+  scriptingBackend:
+    Android: 1
+    Standalone: 0
+  gcIncremental: 1
+  assemblyVersionValidation: 1

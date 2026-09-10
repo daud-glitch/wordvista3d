@@ -1,0 +1,29 @@
+{
+  "levelId": 1,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "ACT",
+  "answerWords": [
+    {
+      "word": "CAT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "ACT",
+      "startX": 1,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "AT"
+  ],
+  "coinReward": 20,
+  "difficulty": 1,
+  "gridWidth": 3,
+  "gridHeight": 3
+}

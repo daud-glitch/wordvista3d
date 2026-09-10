@@ -1,0 +1,38 @@
+{
+  "levelId": 133,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "NWETRI",
+  "answerWords": [
+    {
+      "word": "WINTER",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "TWIN",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "TIRE",
+      "startX": 0,
+      "startY": 5,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "WIN",
+    "NET",
+    "TIE"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 6
+}

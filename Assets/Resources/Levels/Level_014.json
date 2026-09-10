@@ -1,0 +1,29 @@
+{
+  "levelId": 14,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "KEEY",
+  "answerWords": [
+    {
+      "word": "KEY",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "EYE",
+      "startX": 1,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "YE"
+  ],
+  "coinReward": 20,
+  "difficulty": 1,
+  "gridWidth": 3,
+  "gridHeight": 3
+}

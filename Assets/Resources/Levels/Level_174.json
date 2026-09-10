@@ -1,0 +1,36 @@
+{
+  "levelId": 174,
+  "worldId": 6,
+  "worldName": "Tropical Island",
+  "letters": "ORZEEBE",
+  "answerWords": [
+    {
+      "word": "BREEZE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "BEER",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ZERO",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "BEE"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 6,
+  "gridHeight": 4
+}

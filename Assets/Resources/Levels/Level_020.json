@@ -1,0 +1,29 @@
+{
+  "levelId": 20,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "NFVA",
+  "answerWords": [
+    {
+      "word": "FAN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "VAN",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "AN"
+  ],
+  "coinReward": 20,
+  "difficulty": 1,
+  "gridWidth": 3,
+  "gridHeight": 3
+}

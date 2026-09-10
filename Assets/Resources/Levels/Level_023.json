@@ -1,0 +1,37 @@
+{
+  "levelId": 23,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "OERS",
+  "answerWords": [
+    {
+      "word": "ROSE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SORE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ORES",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ROE",
+    "ORE"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 6,
+  "gridHeight": 4
+}

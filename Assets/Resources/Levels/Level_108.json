@@ -1,0 +1,29 @@
+{
+  "levelId": 108,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "ELSEWJ",
+  "answerWords": [
+    {
+      "word": "JEWELS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "JEWEL",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "JEW"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 5
+}

@@ -1,0 +1,30 @@
+{
+  "levelId": 135,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "ICELIC",
+  "answerWords": [
+    {
+      "word": "ICICLE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "LICE",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ICE",
+    "LIE"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 4
+}

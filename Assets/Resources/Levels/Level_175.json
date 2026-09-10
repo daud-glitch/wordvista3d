@@ -1,0 +1,38 @@
+{
+  "levelId": 175,
+  "worldId": 6,
+  "worldName": "Tropical Island",
+  "letters": "ROTCPI",
+  "answerWords": [
+    {
+      "word": "TROPIC",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "TOPIC",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "PORT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "TIP",
+    "TOP",
+    "POT"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

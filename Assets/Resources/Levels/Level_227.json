@@ -1,0 +1,38 @@
+{
+  "levelId": 227,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "STEUCRP",
+  "answerWords": [
+    {
+      "word": "SPECTR",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SUPER",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "CREPT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "CUP",
+    "PET",
+    "USE"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 8,
+  "gridHeight": 5
+}

@@ -1,0 +1,20 @@
+{
+  "levelId": 180,
+  "worldId": 6,
+  "worldName": "Tropical Island",
+  "letters": "AIPDSRA",
+  "answerWords": [
+    {
+      "word": "PARADIS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 7,
+  "gridHeight": 1
+}

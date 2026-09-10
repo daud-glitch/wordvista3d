@@ -1,0 +1,29 @@
+{
+  "levelId": 88,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "NLACA",
+  "answerWords": [
+    {
+      "word": "CANAL",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "CLAN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "CAN"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

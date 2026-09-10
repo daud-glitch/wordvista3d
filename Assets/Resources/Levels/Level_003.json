@@ -1,0 +1,30 @@
+{
+  "levelId": 3,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "WON",
+  "answerWords": [
+    {
+      "word": "WON",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "NOW",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "OWN",
+    "NO"
+  ],
+  "coinReward": 20,
+  "difficulty": 1,
+  "gridWidth": 5,
+  "gridHeight": 3
+}

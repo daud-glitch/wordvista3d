@@ -1,0 +1,38 @@
+{
+  "levelId": 233,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "CDEANL",
+  "answerWords": [
+    {
+      "word": "CANDLE",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "LANCE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "CLEAN",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "CAN",
+    "AND",
+    "LED"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

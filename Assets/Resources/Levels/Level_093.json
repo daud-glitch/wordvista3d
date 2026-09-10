@@ -1,0 +1,38 @@
+{
+  "levelId": 93,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "LPASM",
+  "answerWords": [
+    {
+      "word": "PALMS",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "PALM",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "SLAP",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "MAP",
+    "LAP",
+    "PAL"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 8,
+  "gridHeight": 4
+}

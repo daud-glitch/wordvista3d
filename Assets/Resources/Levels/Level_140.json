@@ -1,0 +1,36 @@
+{
+  "levelId": 140,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "TLSESD",
+  "answerWords": [
+    {
+      "word": "SLEDS",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SLED",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "LEST",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LED"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

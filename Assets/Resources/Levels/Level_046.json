@@ -1,0 +1,27 @@
+{
+  "levelId": 46,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "AMGZE",
+  "answerWords": [
+    {
+      "word": "MAZE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "GAZE",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 3
+}

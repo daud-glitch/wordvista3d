@@ -1,0 +1,37 @@
+{
+  "levelId": 104,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "SIRLEC",
+  "answerWords": [
+    {
+      "word": "RELICS",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "RELIC",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "RICE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ICE",
+    "LIE"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 8,
+  "gridHeight": 5
+}

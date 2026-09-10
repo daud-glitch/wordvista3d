@@ -1,0 +1,30 @@
+{
+  "levelId": 149,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "LYVEASL",
+  "answerWords": [
+    {
+      "word": "VALLEYS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "VALLEY",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ALE",
+    "LAY"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 7,
+  "gridHeight": 6
+}

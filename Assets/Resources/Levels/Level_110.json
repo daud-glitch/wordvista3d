@@ -1,0 +1,37 @@
+{
+  "levelId": 110,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "ASACBRS",
+  "answerWords": [
+    {
+      "word": "SCARAB",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "BRASS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "SCAR",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "BAR",
+    "ARC"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

@@ -1,0 +1,38 @@
+{
+  "levelId": 236,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "MRMIELG",
+  "answerWords": [
+    {
+      "word": "GLIMMER",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "MIME",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "LIME",
+      "startX": 1,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LEG",
+    "GEM",
+    "RIM"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

@@ -1,0 +1,38 @@
+{
+  "levelId": 147,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "SCEUPR",
+  "answerWords": [
+    {
+      "word": "SPRUCE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SUPER",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "PURE",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "CUP",
+    "USE",
+    "PER"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 5
+}

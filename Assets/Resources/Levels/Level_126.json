@@ -1,0 +1,37 @@
+{
+  "levelId": 126,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "TUIMNSM",
+  "answerWords": [
+    {
+      "word": "SUMMIT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "MINT",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "SUIT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SIT",
+    "NUT"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 4
+}

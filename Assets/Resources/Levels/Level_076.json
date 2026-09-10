@@ -1,0 +1,38 @@
+{
+  "levelId": 76,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "PLPERI",
+  "answerWords": [
+    {
+      "word": "RIPPLE",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "PIPER",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "PIPE",
+      "startX": 6,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LIP",
+    "RIP",
+    "PER"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 10,
+  "gridHeight": 5
+}

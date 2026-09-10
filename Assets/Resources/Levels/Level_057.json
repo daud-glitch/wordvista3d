@@ -1,0 +1,31 @@
+{
+  "levelId": 57,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "ODLEG",
+  "answerWords": [
+    {
+      "word": "LODGE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "GOLD",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LOG",
+    "DOG",
+    "LED"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

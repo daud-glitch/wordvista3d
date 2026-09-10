@@ -1,0 +1,37 @@
+{
+  "levelId": 74,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "OLRAC",
+  "answerWords": [
+    {
+      "word": "CORAL",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "COAL",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "COLA",
+      "startX": 0,
+      "startY": 5,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "OAR",
+    "CAR"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 5,
+  "gridHeight": 6
+}

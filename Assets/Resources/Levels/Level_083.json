@@ -1,0 +1,37 @@
+{
+  "levelId": 83,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "OOGALN",
+  "answerWords": [
+    {
+      "word": "LAGOON",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "GOAL",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "LOAN",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LOG",
+    "NOG"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 9,
+  "gridHeight": 4
+}

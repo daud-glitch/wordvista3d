@@ -1,0 +1,36 @@
+{
+  "levelId": 106,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "LTAVUS",
+  "answerWords": [
+    {
+      "word": "VAULTS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "VAULT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "LAST",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "VAT"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 5
+}

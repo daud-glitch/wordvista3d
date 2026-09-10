@@ -1,0 +1,39 @@
+{
+  "levelId": 103,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "NHRTEO",
+  "answerWords": [
+    {
+      "word": "THRONE",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "NORTH",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "HORN",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ONE",
+    "NET",
+    "HER",
+    "HOT"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

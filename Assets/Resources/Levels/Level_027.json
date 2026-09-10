@@ -1,0 +1,37 @@
+{
+  "levelId": 27,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "VERIR",
+  "answerWords": [
+    {
+      "word": "RIVER",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "RIVE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ERR",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "REV",
+    "IRE"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

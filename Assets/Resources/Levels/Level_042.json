@@ -1,0 +1,30 @@
+{
+  "levelId": 42,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "DSEDE",
+  "answerWords": [
+    {
+      "word": "SEED",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "DEED",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SEE",
+    "DEE"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 4
+}

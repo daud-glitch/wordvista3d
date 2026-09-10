@@ -1,0 +1,36 @@
+{
+  "levelId": 130,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "FERIS",
+  "answerWords": [
+    {
+      "word": "FIRES",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "FIRE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "RIFE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "REF"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

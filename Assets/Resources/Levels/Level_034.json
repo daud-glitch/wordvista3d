@@ -1,0 +1,30 @@
+{
+  "levelId": 34,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "DBARK",
+  "answerWords": [
+    {
+      "word": "BARK",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "DARK",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "BAR",
+    "ARK"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 3
+}

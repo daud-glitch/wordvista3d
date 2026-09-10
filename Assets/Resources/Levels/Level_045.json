@@ -1,0 +1,30 @@
+{
+  "levelId": 45,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "BWLGO",
+  "answerWords": [
+    {
+      "word": "GLOW",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "BLOW",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LOW",
+    "LOG"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 3
+}

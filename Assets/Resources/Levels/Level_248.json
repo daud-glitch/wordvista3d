@@ -1,0 +1,22 @@
+{
+  "levelId": 248,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "ZIOORNH",
+  "answerWords": [
+    {
+      "word": "HORIZON",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "NOR"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 7,
+  "gridHeight": 1
+}

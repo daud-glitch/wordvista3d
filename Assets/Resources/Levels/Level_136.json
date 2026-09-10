@@ -1,0 +1,30 @@
+{
+  "levelId": 136,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "EREFVZE",
+  "answerWords": [
+    {
+      "word": "FREEZE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "FEVER",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "FEE",
+    "REF"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 5
+}

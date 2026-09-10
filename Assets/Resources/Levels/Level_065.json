@@ -1,0 +1,37 @@
+{
+  "levelId": 65,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "EWSVA",
+  "answerWords": [
+    {
+      "word": "WAVES",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "WAVE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "SAVE",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SAW",
+    "SEW"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

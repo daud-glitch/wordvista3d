@@ -1,0 +1,38 @@
+{
+  "levelId": 66,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "TALFO",
+  "answerWords": [
+    {
+      "word": "FLOAT",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "LOAF",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "FLAT",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "FAT",
+    "OAT",
+    "LOT"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 8,
+  "gridHeight": 4
+}

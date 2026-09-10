@@ -1,0 +1,38 @@
+{
+  "levelId": 72,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "SNRPIG",
+  "answerWords": [
+    {
+      "word": "SPRING",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "RINGS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "PING",
+      "startX": 5,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "PIG",
+    "PIN",
+    "SIP"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 10,
+  "gridHeight": 5
+}

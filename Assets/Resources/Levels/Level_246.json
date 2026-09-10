@@ -1,0 +1,30 @@
+{
+  "levelId": 246,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "ERENSIT",
+  "answerWords": [
+    {
+      "word": "SERENIT",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "TREES",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SEE",
+    "NET"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 11,
+  "gridHeight": 5
+}

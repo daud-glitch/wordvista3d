@@ -1,0 +1,30 @@
+{
+  "levelId": 50,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "GAIECM",
+  "answerWords": [
+    {
+      "word": "MAGIC",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "GAME",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "AIM",
+    "MAG"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

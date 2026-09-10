@@ -1,0 +1,30 @@
+{
+  "levelId": 24,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "TERFE",
+  "answerWords": [
+    {
+      "word": "TREE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "FREE",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "TEE",
+    "RET"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 3
+}

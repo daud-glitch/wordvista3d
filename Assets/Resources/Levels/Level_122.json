@@ -1,0 +1,29 @@
+{
+  "levelId": 122,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "CILLH",
+  "answerWords": [
+    {
+      "word": "CHILL",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "HILL",
+      "startX": 1,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ILL"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

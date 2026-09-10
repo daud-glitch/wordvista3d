@@ -1,0 +1,30 @@
+{
+  "levelId": 56,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "OAIPSS",
+  "answerWords": [
+    {
+      "word": "OASIS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SOAP",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ISO",
+    "SOS"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

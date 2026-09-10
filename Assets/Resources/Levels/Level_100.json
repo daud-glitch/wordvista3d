@@ -1,0 +1,39 @@
+{
+  "levelId": 100,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "MADIYPR",
+  "answerWords": [
+    {
+      "word": "PYRAMID",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "PRAY",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "DAMP",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "MAY",
+    "PAY",
+    "RAY",
+    "AIM"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 10,
+  "gridHeight": 4
+}

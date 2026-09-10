@@ -1,0 +1,37 @@
+{
+  "levelId": 144,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "OORSTB",
+  "answerWords": [
+    {
+      "word": "BOOTS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "BOOT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ROOT",
+      "startX": 0,
+      "startY": 5,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "TOO",
+    "BOO"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 5,
+  "gridHeight": 6
+}

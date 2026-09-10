@@ -1,0 +1,37 @@
+{
+  "levelId": 81,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "RAHROB",
+  "answerWords": [
+    {
+      "word": "HARBOR",
+      "startX": 0,
+      "startY": 3,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "ROAR",
+      "startX": 2,
+      "startY": 3,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "BOAR",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "BAR",
+    "OAR"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 7
+}

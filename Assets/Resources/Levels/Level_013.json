@@ -1,0 +1,30 @@
+{
+  "levelId": 13,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "XFOB",
+  "answerWords": [
+    {
+      "word": "FOX",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "BOX",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "OF",
+    "OX"
+  ],
+  "coinReward": 20,
+  "difficulty": 1,
+  "gridWidth": 3,
+  "gridHeight": 3
+}

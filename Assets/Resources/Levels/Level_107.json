@@ -1,0 +1,37 @@
+{
+  "levelId": 107,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "ASRERTU",
+  "answerWords": [
+    {
+      "word": "TREASUR",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "TRUE",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "REST",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "EAT",
+    "TAR"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 10,
+  "gridHeight": 4
+}

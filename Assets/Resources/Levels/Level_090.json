@@ -1,0 +1,39 @@
+{
+  "levelId": 90,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "TCLAYRS",
+  "answerWords": [
+    {
+      "word": "CRYSTAL",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "STRAY",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "CLAY",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "CRY",
+    "SAY",
+    "ACT",
+    "CAT"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

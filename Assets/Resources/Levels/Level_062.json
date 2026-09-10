@@ -1,0 +1,38 @@
+{
+  "levelId": 62,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "TRAEW",
+  "answerWords": [
+    {
+      "word": "WATER",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "TEAR",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "RATE",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "WET",
+    "AWE",
+    "WAR"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

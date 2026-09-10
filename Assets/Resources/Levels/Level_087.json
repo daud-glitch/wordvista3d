@@ -1,0 +1,36 @@
+{
+  "levelId": 87,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "SURFS",
+  "answerWords": [
+    {
+      "word": "SURFS",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SURF",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "FURS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "FUR"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 8,
+  "gridHeight": 4
+}

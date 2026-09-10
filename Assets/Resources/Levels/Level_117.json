@@ -1,0 +1,37 @@
+{
+  "levelId": 117,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "LVISRE",
+  "answerWords": [
+    {
+      "word": "SILVER",
+      "startX": 0,
+      "startY": 3,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "LIVER",
+      "startX": 2,
+      "startY": 3,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "VEIL",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SIR",
+    "LIE"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 8
+}

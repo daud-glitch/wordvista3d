@@ -1,0 +1,38 @@
+{
+  "levelId": 80,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "OSRIAL",
+  "answerWords": [
+    {
+      "word": "SAILOR",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SOLAR",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "SAIL",
+      "startX": 0,
+      "startY": 6,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "AIR",
+    "OIL",
+    "SIR"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 7
+}

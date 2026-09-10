@@ -1,0 +1,38 @@
+{
+  "levelId": 224,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "EALNTP",
+  "answerWords": [
+    {
+      "word": "PLANET",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "PLATE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "PLANT",
+      "startX": 0,
+      "startY": 6,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LET",
+    "NET",
+    "PAN"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 6,
+  "gridHeight": 7
+}

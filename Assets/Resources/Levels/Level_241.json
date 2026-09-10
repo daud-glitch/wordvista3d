@@ -1,0 +1,38 @@
+{
+  "levelId": 241,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "MEYHSAT",
+  "answerWords": [
+    {
+      "word": "AMETHYS",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "STEAM",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "MEAT",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "MAT",
+    "SAT",
+    "YES"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 10,
+  "gridHeight": 5
+}

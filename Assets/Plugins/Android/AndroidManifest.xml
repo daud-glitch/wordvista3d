@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wordvista.crossword3d"
+    android:versionCode="1"
+    android:versionName="1.0.0"
+    android:installLocation="preferExternal">
+
+    <supports-screens
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="true"
+        android:xlargeScreens="true"
+        android:anyDensity="true"/>
+
+    <!-- Permissions -->
+    <uses-permission android:name="android.permission.VIBRATE" />
+
+    <!-- Features -->
+    <uses-feature android:glEsVersion="0x00030000" android:required="true" />
+    <uses-feature android:name="android.hardware.touchscreen" android:required="true" />
+    <uses-feature android:name="android.hardware.touchscreen.multitouch" android:required="false" />
+
+    <application
+        android:label="WordVista 3D"
+        android:icon="@mipmap/app_icon"
+        android:hardwareAccelerated="true"
+        android:isGame="true"
+        android:hasCode="true">
+
+        <activity
+            android:name="com.unity3d.player.UnityPlayerActivity"
+            android:theme="@style/UnityThemeSelector"
+            android:screenOrientation="portrait"
+            android:launchMode="singleTask"
+            android:configChanges="mcc|mnc|locale|touchscreen|keyboard|keyboardHidden|navigation|orientation|screenLayout|uiMode|screenSize|smallestScreenSize|fontScale|layoutDirection|density"
+            android:resizeableActivity="false"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+                <category android:name="android.intent.category.LEANBACK_LAUNCHER" />
+            </intent-filter>
+            <meta-data android:name="unityplayer.UnityActivity" android:value="true" />
+        </activity>
+
+        <meta-data android:name="unity.splash-mode" android:value="0" />
+        <meta-data android:name="unity.splash-enable" android:value="True" />
+        <meta-data android:name="notch.config" android:value="portrait|landscape" />
+    </application>
+</manifest>

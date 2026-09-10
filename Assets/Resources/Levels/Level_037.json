@@ -1,0 +1,30 @@
+{
+  "levelId": 37,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "FEREN",
+  "answerWords": [
+    {
+      "word": "FERN",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "FREE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "REF",
+    "FEN"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 4
+}

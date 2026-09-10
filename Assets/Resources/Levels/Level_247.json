@@ -1,0 +1,37 @@
+{
+  "levelId": 247,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "TNERETI",
+  "answerWords": [
+    {
+      "word": "ETERNIT",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "TIRE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "TEEN",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "TIE",
+    "NET"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 10,
+  "gridHeight": 4
+}

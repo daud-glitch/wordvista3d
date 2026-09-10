@@ -1,0 +1,29 @@
+{
+  "levelId": 18,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "GFLO",
+  "answerWords": [
+    {
+      "word": "LOG",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "FOG",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "GO"
+  ],
+  "coinReward": 20,
+  "difficulty": 1,
+  "gridWidth": 3,
+  "gridHeight": 3
+}

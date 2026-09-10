@@ -1,0 +1,36 @@
+{
+  "levelId": 137,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "PLRORSA",
+  "answerWords": [
+    {
+      "word": "POLAR",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SOLAR",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "ROAR",
+      "startX": 4,
+      "startY": 2,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "OAR"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 5,
+  "gridHeight": 6
+}

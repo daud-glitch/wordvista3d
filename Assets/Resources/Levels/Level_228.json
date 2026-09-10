@@ -1,0 +1,30 @@
+{
+  "levelId": 228,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "SPRSMI",
+  "answerWords": [
+    {
+      "word": "PRISMS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "PRISM",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "RIM",
+    "SIR"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 6,
+  "gridHeight": 5
+}

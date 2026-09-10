@@ -1,0 +1,37 @@
+{
+  "levelId": 21,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "RTSA",
+  "answerWords": [
+    {
+      "word": "STAR",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "RATS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ART",
+      "startX": 5,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "TAR",
+    "RAT"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

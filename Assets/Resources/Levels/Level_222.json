@@ -1,0 +1,38 @@
+{
+  "levelId": 222,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "EETRMO",
+  "answerWords": [
+    {
+      "word": "METEOR",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "REMOTE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "METER",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "MET",
+    "ROT",
+    "TOE"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 8,
+  "gridHeight": 6
+}

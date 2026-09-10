@@ -1,0 +1,38 @@
+{
+  "levelId": 71,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "ERTASM",
+  "answerWords": [
+    {
+      "word": "STREAM",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "TEAM",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "MEAT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "MAT",
+    "SEA",
+    "RAT"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 8,
+  "gridHeight": 4
+}

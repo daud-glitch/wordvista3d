@@ -1,0 +1,31 @@
+{
+  "levelId": 237,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "RHEMIMS",
+  "answerWords": [
+    {
+      "word": "SHIMMER",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "HEIR",
+      "startX": 1,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SHE",
+    "HER",
+    "HIM"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

@@ -1,0 +1,37 @@
+{
+  "levelId": 134,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "YRUFRL",
+  "answerWords": [
+    {
+      "word": "FLURRY",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "FURL",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "FURY",
+      "startX": 0,
+      "startY": 5,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "FLY",
+    "FUR"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 6
+}

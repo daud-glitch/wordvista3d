@@ -1,0 +1,36 @@
+{
+  "levelId": 22,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "FLEA",
+  "answerWords": [
+    {
+      "word": "LEAF",
+      "startX": 0,
+      "startY": 3,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "ALE",
+      "startX": 2,
+      "startY": 3,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "FLEA",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ELF"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 6,
+  "gridHeight": 6
+}

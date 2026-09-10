@@ -1,0 +1,38 @@
+{
+  "levelId": 141,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "KASTE",
+  "answerWords": [
+    {
+      "word": "SKATE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "STAKE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "TAKE",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ATE",
+    "TEA",
+    "SET"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 5,
+  "gridHeight": 5
+}

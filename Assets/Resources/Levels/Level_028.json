@@ -1,0 +1,38 @@
+{
+  "levelId": 28,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "NTOES",
+  "answerWords": [
+    {
+      "word": "STONE",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "TONES",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "NOTE",
+      "startX": 7,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ONE",
+    "NET",
+    "SET"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

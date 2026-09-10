@@ -1,0 +1,38 @@
+{
+  "levelId": 113,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "ESNSTU",
+  "answerWords": [
+    {
+      "word": "SUNSET",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "TUNES",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "NEST",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SUN",
+    "SET",
+    "NUT"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 10,
+  "gridHeight": 5
+}

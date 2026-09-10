@@ -1,0 +1,30 @@
+{
+  "levelId": 6,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "ETNP",
+  "answerWords": [
+    {
+      "word": "PET",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "NET",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "PEN",
+    "TEN"
+  ],
+  "coinReward": 20,
+  "difficulty": 1,
+  "gridWidth": 3,
+  "gridHeight": 3
+}

@@ -1,0 +1,30 @@
+{
+  "levelId": 26,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "INWDL",
+  "answerWords": [
+    {
+      "word": "WIND",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "WILD",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "WIN",
+    "DIN"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 4
+}

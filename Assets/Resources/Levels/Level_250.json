@@ -1,0 +1,22 @@
+{
+  "levelId": 250,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "RVDWISO",
+  "answerWords": [
+    {
+      "word": "WORDVIS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "VOW"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 7,
+  "gridHeight": 1
+}

@@ -1,0 +1,30 @@
+{
+  "levelId": 44,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "CRPAM",
+  "answerWords": [
+    {
+      "word": "CAMP",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "RAMP",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "CAP",
+    "MAP"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 3
+}

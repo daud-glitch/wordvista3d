@@ -1,0 +1,30 @@
+{
+  "levelId": 143,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "SRACFS",
+  "answerWords": [
+    {
+      "word": "SCARFS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "SCARF",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "FAR",
+    "CAR"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 5
+}

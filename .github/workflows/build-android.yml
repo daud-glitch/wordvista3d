@@ -1,0 +1,67 @@
+name: Build Android APK
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  validate-and-test:
+    name: Run Automated Puzzle & Logic Tests
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.x'
+
+      - name: Run Test Suite
+        run: dotnet test WordVista.Tests/WordVista.Tests.csproj --verbosity normal
+
+  build-android:
+    name: Build Android APK
+    needs: validate-and-test
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          lfs: true
+
+      - name: Cache Unity Library
+        uses: actions/cache@v4
+        with:
+          path: Library
+          key: Library-Android-${{ hashFiles('Assets/**', 'Packages/**', 'ProjectSettings/**') }}
+          restore-keys: |
+            Library-Android-
+
+      - name: Unity - Builder
+        uses: game-ci/unity-builder@v4
+        env:
+          UNITY_LICENSE: ${{ secrets.UNITY_LICENSE }}
+          UNITY_EMAIL: ${{ secrets.UNITY_EMAIL }}
+          UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
+        with:
+          targetPlatform: Android
+          buildName: WordVista3D
+          buildsPath: build
+          androidAppBundle: false
+          androidExportType: 'androidPackage'
+          androidKeystoreName: ''
+          androidKeystoreBase64: ''
+          androidKeystorePass: ''
+          androidKeyaliasName: ''
+          androidKeyaliasPass: ''
+
+      - name: Upload Android APK
+        uses: actions/upload-artifact@v4
+        with:
+          name: WordVista3D-Android-APK
+          path: build/Android/*.apk
+          retention-days: 14

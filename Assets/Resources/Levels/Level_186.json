@@ -1,0 +1,38 @@
+{
+  "levelId": 186,
+  "worldId": 7,
+  "worldName": "Sky Kingdom",
+  "letters": "TLIGFH",
+  "answerWords": [
+    {
+      "word": "FLIGHT",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "LIGHT",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "GIFT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "FIT",
+    "LIT",
+    "HIT"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 8,
+  "gridHeight": 5
+}

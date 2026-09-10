@@ -1,0 +1,23 @@
+{
+  "levelId": 215,
+  "worldId": 7,
+  "worldName": "Sky Kingdom",
+  "letters": "ININTFI",
+  "answerWords": [
+    {
+      "word": "INFINIT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "FIT",
+    "TIN"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 7,
+  "gridHeight": 1
+}

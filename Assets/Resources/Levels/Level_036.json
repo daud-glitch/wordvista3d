@@ -1,0 +1,30 @@
+{
+  "levelId": 36,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "IWTGN",
+  "answerWords": [
+    {
+      "word": "TWIG",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "WING",
+      "startX": 1,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "GIT",
+    "WIT"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 4
+}

@@ -1,0 +1,38 @@
+{
+  "levelId": 245,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "HYAMORN",
+  "answerWords": [
+    {
+      "word": "HARMONY",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "MANOR",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ROAM",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ARM",
+    "RAY",
+    "MAY"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

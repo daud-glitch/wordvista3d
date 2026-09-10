@@ -1,0 +1,29 @@
+{
+  "levelId": 145,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "OCOASKC",
+  "answerWords": [
+    {
+      "word": "COCOAS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "COOK",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "COO"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 4
+}

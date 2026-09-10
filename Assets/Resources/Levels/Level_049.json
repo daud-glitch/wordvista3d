@@ -1,0 +1,38 @@
+{
+  "levelId": 49,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "RFIAY",
+  "answerWords": [
+    {
+      "word": "FAIRY",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "AIRY",
+      "startX": 1,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "FAIR",
+      "startX": 0,
+      "startY": 5,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "FAR",
+    "RAY",
+    "AIR"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 5,
+  "gridHeight": 6
+}

@@ -1,0 +1,37 @@
+{
+  "levelId": 192,
+  "worldId": 7,
+  "worldName": "Sky Kingdom",
+  "letters": "GDSEIL",
+  "answerWords": [
+    {
+      "word": "GLIDES",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "GLIDE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "IDLE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LED",
+    "DIG"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 6,
+  "gridHeight": 5
+}

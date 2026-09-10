@@ -1,0 +1,31 @@
+{
+  "levelId": 152,
+  "worldId": 6,
+  "worldName": "Tropical Island",
+  "letters": "DLAISN",
+  "answerWords": [
+    {
+      "word": "ISLAND",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "LANDS",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LAD",
+    "AND",
+    "SIN"
+  ],
+  "coinReward": 35,
+  "difficulty": 4,
+  "gridWidth": 9,
+  "gridHeight": 5
+}

@@ -1,0 +1,37 @@
+{
+  "levelId": 142,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "VGELOS",
+  "answerWords": [
+    {
+      "word": "GLOVES",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "GLOVE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "LOVE",
+      "startX": 0,
+      "startY": 6,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "LOG",
+    "LEG"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 7
+}

@@ -1,0 +1,38 @@
+{
+  "levelId": 111,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "HATSE",
+  "answerWords": [
+    {
+      "word": "HEATS",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "HEAT",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "HATE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "HAT",
+    "THE",
+    "EAT"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 7,
+  "gridHeight": 4
+}

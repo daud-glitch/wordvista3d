@@ -1,0 +1,37 @@
+{
+  "levelId": 67,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "DRTFI",
+  "answerWords": [
+    {
+      "word": "DRIFT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "DIRT",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "RIFT",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "FIT",
+    "RID"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 5,
+  "gridHeight": 4
+}

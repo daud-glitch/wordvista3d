@@ -1,0 +1,38 @@
+{
+  "levelId": 125,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "AILNEP",
+  "answerWords": [
+    {
+      "word": "ALPINE",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "PLANE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "LEAP",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "PIN",
+    "PIE",
+    "ALE"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 8,
+  "gridHeight": 5
+}

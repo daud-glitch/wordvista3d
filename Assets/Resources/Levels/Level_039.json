@@ -1,0 +1,30 @@
+{
+  "levelId": 39,
+  "worldId": 2,
+  "worldName": "Mystic Forest",
+  "letters": "RAEB",
+  "answerWords": [
+    {
+      "word": "BEAR",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "BARE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "EAR",
+    "BAR"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 4,
+  "gridHeight": 4
+}

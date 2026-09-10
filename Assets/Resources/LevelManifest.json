@@ -1,0 +1,2005 @@
+{
+  "totalLevels": 250,
+  "levels": [
+    {
+      "levelId": 1,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 3,
+      "coinReward": 20
+    },
+    {
+      "levelId": 2,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 3,
+      "coinReward": 20
+    },
+    {
+      "levelId": 3,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 3,
+      "coinReward": 20
+    },
+    {
+      "levelId": 4,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 3,
+      "coinReward": 20
+    },
+    {
+      "levelId": 5,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 3,
+      "coinReward": 20
+    },
+    {
+      "levelId": 6,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 20
+    },
+    {
+      "levelId": 7,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 3,
+      "coinReward": 20
+    },
+    {
+      "levelId": 8,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 20
+    },
+    {
+      "levelId": 9,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 20
+    },
+    {
+      "levelId": 10,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 20
+    },
+    {
+      "levelId": 11,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 20
+    },
+    {
+      "levelId": 12,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 3,
+      "coinReward": 20
+    },
+    {
+      "levelId": 13,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 20
+    },
+    {
+      "levelId": 14,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 20
+    },
+    {
+      "levelId": 15,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 20
+    },
+    {
+      "levelId": 16,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 3,
+      "coinReward": 20
+    },
+    {
+      "levelId": 17,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 3,
+      "coinReward": 20
+    },
+    {
+      "levelId": 18,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 20
+    },
+    {
+      "levelId": 19,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 20
+    },
+    {
+      "levelId": 20,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 20
+    },
+    {
+      "levelId": 21,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 3,
+      "letterCount": 4,
+      "coinReward": 25
+    },
+    {
+      "levelId": 22,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 3,
+      "letterCount": 4,
+      "coinReward": 25
+    },
+    {
+      "levelId": 23,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 3,
+      "letterCount": 4,
+      "coinReward": 25
+    },
+    {
+      "levelId": 24,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 25,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 26,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 27,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 28,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 29,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 30,
+      "worldId": 1,
+      "worldName": "Green Valley",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 31,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 32,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 33,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 25
+    },
+    {
+      "levelId": 34,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 35,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 25
+    },
+    {
+      "levelId": 36,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 37,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 38,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 25
+    },
+    {
+      "levelId": 39,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 25
+    },
+    {
+      "levelId": 40,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 4,
+      "coinReward": 25
+    },
+    {
+      "levelId": 41,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 42,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 43,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 44,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 45,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 46,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 47,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 48,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 49,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 50,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 25
+    },
+    {
+      "levelId": 51,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 52,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 25
+    },
+    {
+      "levelId": 53,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 54,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 25
+    },
+    {
+      "levelId": 55,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 56,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 25
+    },
+    {
+      "levelId": 57,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 58,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 25
+    },
+    {
+      "levelId": 59,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 60,
+      "worldId": 2,
+      "worldName": "Mystic Forest",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 25
+    },
+    {
+      "levelId": 61,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 62,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 63,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 64,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 65,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 66,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 67,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 68,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 69,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 70,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 25
+    },
+    {
+      "levelId": 71,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 72,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 73,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 74,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 75,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 76,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 77,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 78,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 79,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 80,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 81,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 82,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 83,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 84,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 85,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 86,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 87,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 88,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 89,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 90,
+      "worldId": 3,
+      "worldName": "Crystal Lake",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 91,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 92,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 93,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 94,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 95,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 96,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 97,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 98,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 99,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 100,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 101,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 102,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 103,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 104,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 105,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 106,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 107,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 108,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 109,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 110,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 111,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 112,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 113,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 114,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 115,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 116,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 117,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 118,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 119,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 120,
+      "worldId": 4,
+      "worldName": "Desert Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 121,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 122,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 123,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 124,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 125,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 126,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 127,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 128,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 129,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 130,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 131,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 132,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 133,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 134,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 135,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 136,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 137,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 138,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 139,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 140,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 141,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 142,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 143,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 144,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 145,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 146,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 147,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 148,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 30
+    },
+    {
+      "levelId": 149,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 30
+    },
+    {
+      "levelId": 150,
+      "worldId": 5,
+      "worldName": "Snow Valley",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 30
+    },
+    {
+      "levelId": 151,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 152,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 153,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 154,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 155,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 156,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 1,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 157,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 158,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 159,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 160,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 161,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 162,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 35
+    },
+    {
+      "levelId": 163,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 164,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 165,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 166,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 167,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 168,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 169,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 35
+    },
+    {
+      "levelId": 170,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 171,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 172,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 173,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 2,
+      "letterCount": 5,
+      "coinReward": 35
+    },
+    {
+      "levelId": 174,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 175,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 176,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 177,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 178,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 1,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 179,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 180,
+      "worldId": 6,
+      "worldName": "Tropical Island",
+      "wordCount": 1,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 181,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 182,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 183,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 184,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 185,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 186,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 187,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 5,
+      "coinReward": 35
+    },
+    {
+      "levelId": 188,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 189,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 190,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 191,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 192,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 193,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 194,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 195,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 196,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 1,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 197,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 198,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 199,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 200,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 201,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 202,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 203,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 204,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 205,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 206,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 207,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 208,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 209,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 210,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 211,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 212,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 213,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 214,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 215,
+      "worldId": 7,
+      "worldName": "Sky Kingdom",
+      "wordCount": 1,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 216,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 217,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 218,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 219,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 35
+    },
+    {
+      "levelId": 220,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 35
+    },
+    {
+      "levelId": 221,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 222,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 40
+    },
+    {
+      "levelId": 223,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 40
+    },
+    {
+      "levelId": 224,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 40
+    },
+    {
+      "levelId": 225,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 40
+    },
+    {
+      "levelId": 226,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 227,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 228,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 40
+    },
+    {
+      "levelId": 229,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 230,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 40
+    },
+    {
+      "levelId": 231,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 40
+    },
+    {
+      "levelId": 232,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 233,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 6,
+      "coinReward": 40
+    },
+    {
+      "levelId": 234,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 235,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 236,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 237,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 238,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 239,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 240,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 1,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 241,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 242,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 2,
+      "letterCount": 6,
+      "coinReward": 40
+    },
+    {
+      "levelId": 243,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 1,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 244,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 1,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 245,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 246,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 247,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 3,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 248,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 1,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 249,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 2,
+      "letterCount": 7,
+      "coinReward": 40
+    },
+    {
+      "levelId": 250,
+      "worldId": 8,
+      "worldName": "Aurora World",
+      "wordCount": 1,
+      "letterCount": 7,
+      "coinReward": 40
+    }
+  ]
+}

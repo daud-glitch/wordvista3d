@@ -1,0 +1,31 @@
+{
+  "levelId": 64,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "OERSH",
+  "answerWords": [
+    {
+      "word": "SHORE",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "HORSE",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "SHE",
+    "ORE",
+    "ROE"
+  ],
+  "coinReward": 25,
+  "difficulty": 2,
+  "gridWidth": 8,
+  "gridHeight": 5
+}

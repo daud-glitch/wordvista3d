@@ -1,0 +1,29 @@
+{
+  "levelId": 9,
+  "worldId": 1,
+  "worldName": "Green Valley",
+  "letters": "UACP",
+  "answerWords": [
+    {
+      "word": "CUP",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "CAP",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "UP"
+  ],
+  "coinReward": 20,
+  "difficulty": 1,
+  "gridWidth": 3,
+  "gridHeight": 3
+}

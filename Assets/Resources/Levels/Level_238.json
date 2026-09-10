@@ -1,0 +1,38 @@
+{
+  "levelId": 238,
+  "worldId": 8,
+  "worldName": "Aurora World",
+  "letters": "ONADMID",
+  "answerWords": [
+    {
+      "word": "DIAMOND",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "DOMAIN",
+      "startX": 3,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "MAID",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "DIM",
+    "AND",
+    "MAD"
+  ],
+  "coinReward": 40,
+  "difficulty": 5,
+  "gridWidth": 10,
+  "gridHeight": 6
+}

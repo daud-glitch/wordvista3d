@@ -1,0 +1,38 @@
+{
+  "levelId": 138,
+  "worldId": 5,
+  "worldName": "Snow Valley",
+  "letters": "ITCCRAT",
+  "answerWords": [
+    {
+      "word": "ARCTIC",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "CART",
+      "startX": 2,
+      "startY": 2,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "TACT",
+      "startX": 2,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "CAT",
+    "ACT",
+    "ART"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 6
+}

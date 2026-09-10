@@ -1,0 +1,37 @@
+{
+  "levelId": 116,
+  "worldId": 4,
+  "worldName": "Desert Kingdom",
+  "letters": "OEBNRZ",
+  "answerWords": [
+    {
+      "word": "BRONZE",
+      "startX": 0,
+      "startY": 2,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "ZERO",
+      "startX": 4,
+      "startY": 2,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "ZONE",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "ONE",
+    "ROB"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 8,
+  "gridHeight": 6
+}

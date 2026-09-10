@@ -1,0 +1,37 @@
+{
+  "levelId": 85,
+  "worldId": 3,
+  "worldName": "Crystal Lake",
+  "letters": "SEYREG",
+  "answerWords": [
+    {
+      "word": "GEYSER",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": true,
+      "clue": ""
+    },
+    {
+      "word": "GREY",
+      "startX": 0,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    },
+    {
+      "word": "EYES",
+      "startX": 4,
+      "startY": 0,
+      "isHorizontal": false,
+      "clue": ""
+    }
+  ],
+  "bonusWords": [
+    "YES",
+    "SEE"
+  ],
+  "coinReward": 30,
+  "difficulty": 3,
+  "gridWidth": 6,
+  "gridHeight": 4
+}
