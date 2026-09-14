@@ -23,6 +23,7 @@ namespace WordVista.Environment
         [Header("World Configuration")]
         [SerializeField] private int worldId = 1;
         [SerializeField] private string worldName = "Green Valley";
+        public string WorldName => worldName;
 
         [Header("Transformation Stages")]
         [SerializeField] private List<TransformationStage> stages = new List<TransformationStage>();

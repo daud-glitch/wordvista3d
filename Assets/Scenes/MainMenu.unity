@@ -339,7 +339,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 500}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 9a0b1c2d3e4f5a6b7c8d9e0f1a2b3c4d, type: 3}
+  m_Script: {fileID: 11500000, guid: 0f600b0a7497b4a428a31350cdaedc2d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: WordVista.Environment:WorldEnvironmentSetup
 --- !u!1 &600
@@ -451,7 +451,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 600}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 8a9b0c1d2e3f4a5b6c7d8e9f0a1b2c3d, type: 3}
+  m_Script: {fileID: 11500000, guid: d56a6c9096749c84da315534059534ac, type: 3}
   m_Name: 
   m_EditorClassIdentifier: WordVista.UI:MainMenuUI
 --- !u!1 &700

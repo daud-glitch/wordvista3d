@@ -7,16 +7,16 @@ EditorBuildSettings:
   m_Scenes:
   - m_Enabled: 1
     m_Path: Assets/Scenes/Bootstrap.unity
-    m_Guid: 7f0a8b9c1d2e3f4a5b6c7d8e9f0a1b2c
+    m_Guid: 86f5d5ea8fccfd3429dbae9639526941
   - m_Enabled: 1
     m_Path: Assets/Scenes/MainMenu.unity
-    m_Guid: 8f1a8b9c1d2e3f4a5b6c7d8e9f0a1b2d
+    m_Guid: 1fe74b5dcfd63074799688c3353246fc
   - m_Enabled: 1
     m_Path: Assets/Scenes/WorldMap.unity
-    m_Guid: 9f2a8b9c1d2e3f4a5b6c7d8e9f0a1b2e
+    m_Guid: 7dd4c59cd5c2bd3439b86235f520d69a
   - m_Enabled: 1
     m_Path: Assets/Scenes/Gameplay.unity
-    m_Guid: af3a8b9c1d2e3f4a5b6c7d8e9f0a1b2f
+    m_Guid: 9e84987dc30c7134db2166ec4bd9ef6d
   - m_Enabled: 1
     m_Path: Assets/Scenes/DailyPuzzle.unity
-    m_Guid: bf4a8b9c1d2e3f4a5b6c7d8e9f0a1b20
+    m_Guid: 08b57c18e6355e445bf4ccdbbeddebcf
