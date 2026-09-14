@@ -49,6 +49,7 @@ jobs:
           UNITY_PASSWORD: ${{ secrets.UNITY_PASSWORD }}
         with:
           targetPlatform: Android
+          unityVersion: 6000.0.34f1
           buildName: WordVista3D
           buildsPath: build
           androidAppBundle: false
